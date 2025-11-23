@@ -65,7 +65,6 @@ The final output includes:
 
 ---
 
-## 🛠 How to run it
 
 
 
